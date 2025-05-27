@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971166706801",
+    "project_id": "tempchat-5b436",
+    "storage_bucket": "tempchat-5b436.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971166706801:android:20a1527294acda9fbeffd0",
+        "android_client_info": {
+          "package_name": "com.temporarychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEccALgpc_pZBJayf5_7ksl2g7jsOvWoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+# React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.env.*    # in case you use .env.staging, .env.production etc.
+
+# Firebase secrets (if stored locally, adjust based on your actual setup)
+firebase-debug.log
+.firebase/
+firebase.json
+firestore.indexes.json
+firestore.rules
+storage.rules
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Android
+android/.gradle/
+android/app/build/
+android/.idea/
+android/local.properties
+android/app/.cxx
+android/gradle.properties
+
+# iOS
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/DerivedData/
+ios/.xcworkspace
+ios/*.xcodeproj/project.xcworkspace/
+ios/*.xcodeproj/xcuserdata/
+
+# Bundle output
+*.jsbundle
+
+# Watchman
+.watchmanconfig
+
+# Metro
+metro-cache/
+.cache/
+
+# Testing
+coverage/
+jest/
+
+# Expo (if you're using it alongside CLI somehow)
+.expo/
+.expo-shared/
