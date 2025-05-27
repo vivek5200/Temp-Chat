@@ -23,4 +23,4 @@ TempChat is a lightweight React Native chat application that supports:
 - **Firebase Authentication** (user management)
 - **Firebase Firestore** (real-time chat database)
 - **@react-native-firebase** packages
-- **Expo / React Native CLI** (depending on your setup)
+- **React Native CLI**
