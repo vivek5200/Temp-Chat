@@ -13,13 +13,13 @@ GoogleSignin.configure({
 
 // Firebase configuration object
 const firebaseConfig = {
-  apiKey: "AIzaSyAWTN2pxUJiCq4--vScEbquYmOz81XAKoU",
-  authDomain: "temp-chat-8211e.firebaseapp.com",
-  projectId: "temp-chat-8211e",
-  storageBucket: "temp-chat-8211e.appspot.com",
-  messagingSenderId: "55141967059",
-  appId: "1:55141967059:web:02eaa2064ea03bbcdb6026",
-  measurementId: "G-W63N5KKM58"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize only if not already initialized
